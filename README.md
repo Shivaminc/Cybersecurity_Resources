@@ -60,19 +60,6 @@ Steps for adding your name in the CONTRIBUTERS.md File
     6. Make your pull request 🙌🏽.
     7. Don't forget to star the repo 🙂.
 
-
-----
-
-<h3> Create a new repository on the command line </h3>
-echo "# Cybersecurity_Resources" >> README.md <br>
-git init <br>
-git add README.md <br>
-git commit -m "first commit" <br> 
-git branch -M main <br> 
-git remote add origin https://github.com/Shivaminc/Cybersecurity_Resources.git <br>
-git push -u origin main <br>
-
-
 ----
 
 # Special Note 
