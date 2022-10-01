@@ -52,8 +52,8 @@
 Steps for adding your name in the CONTRIBUTERS.md File
 
     1. Fork this repo
-    2. Edit `Tools.md` file 
-    3. Add Name of tool , link to the tool , a short  explanation of your favorite tool in the table .
+    2. Edit `Resources.md` file.
+    3. Fill any of the categories you feel like contributing to.
     4. Edit `CONTRIBUTERS.md` file
     5. Add your Name also link your github profile seprated by a | (pipe).
         eg. | Shivam | https://github.com/Shivaminc | 
@@ -63,6 +63,17 @@ Steps for adding your name in the CONTRIBUTERS.md File
 
 ----
 
+<h3> Create a new repository on the command line </h3>
+echo "# Cybersecurity_Resources" >> README.md <br>
+git init <br>
+git add README.md <br>
+git commit -m "first commit" <br> 
+git branch -M main <br> 
+git remote add origin https://github.com/Shivaminc/Cybersecurity_Resources.git <br>
+git push -u origin main <br>
+
+
+----
 
 # Special Note 
 ```py
@@ -72,6 +83,5 @@ lets you have made only 4 pull request to different projects
 but one project is excluded from hackoctoberfest event then your pull request will not be count and 
 then you have remains 3 valid pull request if these projects is not excluded.
 if you fail to make 4 pull request then you can't get swags or t-shirts.
-
 '''
 ```
