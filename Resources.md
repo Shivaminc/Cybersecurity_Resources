@@ -21,3 +21,4 @@
 |    Name     |     Category       |        Link       |
 |-------------|--------------------|--------------------------------------------|
 | HackTricks  | Infosec | https://book.hacktricks.xyz/welcome/readme |
+| Medium      | ROP     | https://medium.com/@int0x33/day-1-rop-emporium-ret2win-64bit-bb0d1893a3b0 |
