@@ -8,6 +8,8 @@
 | Space       | PWN         | Medium    | https://app.hackthebox.com/challenges/space
 | Burp Suite  | Web     |   Medium  |  https://tryhackme.com/module/learn-burp-suite |
 | OverTheWire  | Web     |   Easy  |  https://overthewire.org/wargames/bandit/ |
+| Portswigger Labs  | Web     |   Medium  |  https://portswigger.net/web-security/all-labs |
+
 
 
 
@@ -21,3 +23,4 @@
 |    Name     |     Category       |        Link       |
 |-------------|--------------------|--------------------------------------------|
 | HackTricks  | Infosec | https://book.hacktricks.xyz/welcome/readme |
+| the-book-of-secret-knowledge   | Infosec | https://github.com/trimstray/the-book-of-secret-knowledge |
