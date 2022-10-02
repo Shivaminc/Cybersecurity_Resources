@@ -12,5 +12,7 @@
 
 <h2> Free Learning Resources... </h2>
 
-|    Name     | Category | Link |
-|-------------|----------|------|
+|    Name     |     Category       |        Link       |
+|-------------|--------------------|--------------------------------------------|
+| Metasploit  |   Exploitation     | https://tryhackme.com/room/metasploitintro | 
+| Nmap        |   Scanner          | https://tryhackme.com/room/furthernmap     | 
