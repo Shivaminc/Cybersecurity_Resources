@@ -6,6 +6,8 @@
 | Metasploit  |   Exploitation|   Easy     | https://tryhackme.com/room/metasploitintro | 
 | Nmap        |   Scanner     |  Easy     | https://tryhackme.com/room/furthernmap     | 
 | Space       | PWN         | Medium    | https://app.hackthebox.com/challenges/space
+| Burp Suite  | Web     |   Medium  |  https://tryhackme.com/module/learn-burp-suite |
+
 
 
 
