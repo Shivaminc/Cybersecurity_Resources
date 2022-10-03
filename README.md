@@ -28,14 +28,14 @@
 
 - Hacktoberfest is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
 - We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue or online environment, including talks, workshops, parties, Twitter and other online media.
--  Event participants violating these rules may be sanctioned or expelled from the event
+-  Event participants violating these rules may be sanctioned or expelled from the event.
 
 
 ---
 ## Rules
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
-- Follow the Table format for the PR submissions .
+- Follow the Table format for the PR submissions.
 
 
 ---
