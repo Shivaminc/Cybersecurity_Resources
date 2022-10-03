@@ -10,6 +10,7 @@
 | OverTheWire  | Web     |   Easy  |  https://overthewire.org/wargames/bandit/ |
 | Portswigger Labs  | Web     |   Medium  |  https://portswigger.net/web-security/all-labs |
 | Nova Labs | Cyber Battle  | Medium  | https://www.pbs.org/wgbh/nova/labs/lab/cyber/ |
+| Pico CTF | CTF Pratice | Medium | https://play.picoctf.org/practice
 
 
 
