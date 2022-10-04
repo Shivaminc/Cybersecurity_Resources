@@ -9,4 +9,6 @@
 | Saheel Raj  | https://github.com/rajSaheel
 | Howard | https://github.com/RTHKKona |
 |H9660| https://github.com/H9660 |
+| Kittonn | https://github.com/Kittonn |
+| Som Chandra | https://github.com/Somchandra17 |
 
