@@ -9,6 +9,7 @@
 | Burp Suite  | Web     |   Medium  |  https://tryhackme.com/module/learn-burp-suite |
 | OverTheWire  | Web     |   Easy  |  https://overthewire.org/wargames/bandit/ |
 | Portswigger Labs  | Web     |   Medium  |  https://portswigger.net/web-security/all-labs |
+| Phishing | Web | Easy | https://tryhackme.com/module/phishing |
 
 
 
