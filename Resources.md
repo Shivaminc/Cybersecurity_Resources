@@ -26,6 +26,9 @@
 | HackTricks  | Infosec | https://book.hacktricks.xyz/welcome/readme |
 | Medium      | ROP     | https://medium.com/@int0x33/day-1-rop-emporium-ret2win-64bit-bb0d1893a3b0 |
 | the-book-of-secret-knowledge   | Infosec | https://github.com/trimstray/the-book-of-secret-knowledge |
+| Reverse Malware Engineering | Malware Analysis | https://opensecuritytraining.info/ReverseEngineeringMalware.html |
+| Open Security Training | Advanced x86 Virtualization courses| [https://opensecuritytraining.info/ReverseEngineeringMalware.html](http://opensecuritytraining.info/Training.html) |
+| SANS Cyberaces Training | Training | https://www.sans.org/cyberaces/ |
 | Reverse Malware Engineering | Malware Analysis | https://opensecuritytraining.info/ReverseEngineeringMalware.html
 | Open Security Training | Advanced x86 Virtualization courses| [https://opensecuritytraining.info/ReverseEngineeringMalware.html](http://opensecuritytraining.info/Training.html)
 | Medium      | Active directory | https://medium.com/@apareek99/active-directory-initial-attack-vector-llmnr-poisoning-attack-and-defense-a8d8ed49840d |
