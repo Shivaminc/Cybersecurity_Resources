@@ -12,6 +12,7 @@
 | CC Ghidra  | Reverse Engineering    |   Medium  | https://tryhackme.com/room/ccghidra |
 | Crack the hash | Crypto and Hash    |   Medium  | https://tryhackme.com/room/crackthehash |
 | Cyber Defender Labs | Blue Team | Beginners | https://cyberdefenders.org/blueteam-ctf-challenges |
+| Blue Team Labs | Blue Team | Beginners | https://blueteamlabs.online/ |
 | Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
 | VulnHub | All | Experts | https://www.vulnhub.com/ |
