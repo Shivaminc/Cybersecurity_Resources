@@ -15,3 +15,4 @@
 | TenTraicion | https://github.com/TenTraicion |
 | Devanshu    | https://github.com/Devanshu2310 |
 | Ansh        | https://github.com/ansharora28|
+| Oluwasola A | https://github.com/LUFA199x |
