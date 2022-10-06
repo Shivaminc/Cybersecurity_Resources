@@ -32,3 +32,4 @@
 | Reverse Malware Engineering | Malware Analysis | https://opensecuritytraining.info/ReverseEngineeringMalware.html
 | Open Security Training | Advanced x86 Virtualization courses| [https://opensecuritytraining.info/ReverseEngineeringMalware.html](http://opensecuritytraining.info/Training.html)
 | Medium      | Active directory | https://medium.com/@apareek99/active-directory-initial-attack-vector-llmnr-poisoning-attack-and-defense-a8d8ed49840d |
+|hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
