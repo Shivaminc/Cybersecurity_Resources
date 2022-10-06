@@ -9,6 +9,8 @@
 | Burp Suite  | Web     |   Medium  |  https://tryhackme.com/module/learn-burp-suite |
 | OverTheWire  | Web     |   Easy  |  https://overthewire.org/wargames/bandit/ |
 | Portswigger Labs  | Web     |   Medium  |  https://portswigger.net/web-security/all-labs |
+| CC Ghidra  | Reverse Engineering    |   Medium  | https://tryhackme.com/room/ccghidra |
+| Crack the hash | Crypto and Hash    |   Medium  | https://tryhackme.com/room/crackthehash |
 | Cyber Defender Labs | Blue Team | Beginners | https://cyberdefenders.org/blueteam-ctf-challenges |
 | Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
