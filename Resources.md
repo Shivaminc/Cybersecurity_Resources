@@ -52,4 +52,8 @@
 | Stegbreak      | Steganography | https://linux.die.net/man/1/stegbreak                   | Launches brute-force dictionary attacks on JPG image         |
 | Steghide       | Steganography | https://steghide.sourceforge.net/                       | Hide data in various kind of images                          |
 | Hackbar        | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation                      |
+| DaveGrohl       | Bruteforcer   |https://github.com/octomagon/davegrohl                    | Brute-forcing tool for Mac OS X|
+| Rainbow Crack   | Bruteforcer   | http://project-rainbowcrack.com/                         | Generates rainbow tables to be used in recovering passwords |
+| THC Hydra       | Bruteforcer   |https://sectools.org/tool/hydra/                          | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
+| Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
 
