@@ -38,9 +38,9 @@
 | FreeCodeCamp | Information Security | https://www.freecodecamp.org/learn/information-security/
 | Cyber Security Essentials | Infosec | https://books.google.com.ng/books?id=hu4bJo5v3dsC&printsec=frontcover&dq=cybersecurity+cisco+free&hl=en&sa=X&ved=2ahUKEwjoz_76y8v6AhWKO-wKHbTWCoUQuwV6BAgDEAY#v=onepage&q&f=false 
 |hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
+| Try Hack Me | Blog on Guide to Free rooms on THM | https://tryhackme.com/resources/blog/free_path |
 | Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
-
 
 
 <br>
@@ -57,6 +57,7 @@
 | Stegbreak      | Steganography | https://linux.die.net/man/1/stegbreak                   | Launches brute-force dictionary attacks on JPG image         |
 | Steghide       | Steganography | https://steghide.sourceforge.net/                       | Hide data in various kind of images                          |
 | Hackbar        | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation                      |
+| Sublist3r      | OSINT         | https://github.com/aboul3la/Sublist3r                   | Tool designed to enumerate subdomains of websites using OSINT|
 | decode.fr      | Cryptography  | https://www.dcode.fr/                                   | convert the cipher text to plain text                        |
 | DaveGrohl       | Bruteforcer   |https://github.com/octomagon/davegrohl                    | Brute-forcing tool for Mac OS X|
 | Rainbow Crack   | Bruteforcer   | http://project-rainbowcrack.com/                         | Generates rainbow tables to be used in recovering passwords |
