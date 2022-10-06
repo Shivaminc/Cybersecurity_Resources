@@ -33,3 +33,4 @@
 | Open Security Training | Advanced x86 Virtualization courses| [https://opensecuritytraining.info/ReverseEngineeringMalware.html](http://opensecuritytraining.info/Training.html)
 | Medium      | Active directory | https://medium.com/@apareek99/active-directory-initial-attack-vector-llmnr-poisoning-attack-and-defense-a8d8ed49840d |
 | FreeCodeCamp | Information Security | https://www.freecodecamp.org/learn/information-security/
+| Cyber Security Essentials | Infosec | https://books.google.com.ng/books?id=hu4bJo5v3dsC&printsec=frontcover&dq=cybersecurity+cisco+free&hl=en&sa=X&ved=2ahUKEwjoz_76y8v6AhWKO-wKHbTWCoUQuwV6BAgDEAY#v=onepage&q&f=false 
