@@ -51,4 +51,5 @@
 | Stegbreak      | Steganography | https://linux.die.net/man/1/stegbreak                   | Launches brute-force dictionary attacks on JPG image         |
 | Steghide       | Steganography | https://steghide.sourceforge.net/                       | Hide data in various kind of images                          |
 | Hackbar        | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation                      |
-
+| decode.fr      | Cryptography  | https://www.dcode.fr/                                   | convert the cipher text to plain text                        |
+ 
