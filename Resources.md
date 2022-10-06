@@ -9,8 +9,10 @@
 | Burp Suite  | Web     |   Medium  |  https://tryhackme.com/module/learn-burp-suite |
 | OverTheWire  | Web     |   Easy  |  https://overthewire.org/wargames/bandit/ |
 | Portswigger Labs  | Web     |   Medium  |  https://portswigger.net/web-security/all-labs |
-
-
+| Cyber Defender Labs | Blue Team | Beginners | https://cyberdefenders.org/blueteam-ctf-challenges |
+| Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
+| Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
+| VulnHub | All | Experts | https://www.vulnhub.com/ |
 
 
 
@@ -36,6 +38,9 @@
 | FreeCodeCamp | Information Security | https://www.freecodecamp.org/learn/information-security/
 | Cyber Security Essentials | Infosec | https://books.google.com.ng/books?id=hu4bJo5v3dsC&printsec=frontcover&dq=cybersecurity+cisco+free&hl=en&sa=X&ved=2ahUKEwjoz_76y8v6AhWKO-wKHbTWCoUQuwV6BAgDEAY#v=onepage&q&f=false 
 |hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
+| Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
+| Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
+
 
 
 <br>
