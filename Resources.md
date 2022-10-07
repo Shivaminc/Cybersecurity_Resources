@@ -44,7 +44,7 @@
 | Try Hack Me | Blog on Guide to Free rooms on THM | https://tryhackme.com/resources/blog/free_path |
 | Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
-
+| Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b
 
 <br>
 
