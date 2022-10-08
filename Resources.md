@@ -37,7 +37,8 @@
 | Reverse Malware Engineering | Malware Analysis | https://opensecuritytraining.info/ReverseEngineeringMalware.html
 | Open Security Training | Advanced x86 Virtualization courses| [https://opensecuritytraining.info/ReverseEngineeringMalware.html](http://opensecuritytraining.info/Training.html)
 | Medium      | Active directory | https://medium.com/@apareek99/active-directory-initial-attack-vector-llmnr-poisoning-attack-and-defense-a8d8ed49840d |
-|Hack The Box  | Training  | https://app.hackthebox.com/starting-point |
+| Hack The Box  | Training  | https://app.hackthebox.com/starting-point |
+| 247CTF  | Training  | https://247ctf.com/ |
 | FreeCodeCamp | Information Security | https://www.freecodecamp.org/learn/information-security/
 | Cyber Security Essentials | Infosec | https://books.google.com.ng/books?id=hu4bJo5v3dsC&printsec=frontcover&dq=cybersecurity+cisco+free&hl=en&sa=X&ved=2ahUKEwjoz_76y8v6AhWKO-wKHbTWCoUQuwV6BAgDEAY#v=onepage&q&f=false 
 |hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
