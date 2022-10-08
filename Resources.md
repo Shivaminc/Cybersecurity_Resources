@@ -16,6 +16,7 @@
 | Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
 | VulnHub | All | Experts | https://www.vulnhub.com/ |
+| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/
 
 
 
@@ -45,7 +46,8 @@
 | Try Hack Me | Blog on Guide to Free rooms on THM | https://tryhackme.com/resources/blog/free_path |
 | Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
-| Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b
+| Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b |
+| Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
 
 <br>
 
@@ -67,3 +69,5 @@
 | Rainbow Crack   | Bruteforcer   | http://project-rainbowcrack.com/                         | Generates rainbow tables to be used in recovering passwords |
 | THC Hydra       | Bruteforcer   |https://sectools.org/tool/hydra/                          | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
 | Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
+| Wireshark       | Packet Tracing | https://www.wireshark.org/                             | Lets you trace and analyze network packets at a very minute and detailed level |
+| Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |  
