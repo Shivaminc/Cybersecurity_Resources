@@ -24,5 +24,7 @@
 | Patil Sagar | https://github.com/SagarPatil007 |
 | Atul Narayan | https://github.com/atulnarayan16|
 | Oluwasola A | https://github.com/LUFA199x |
+| Satantago | https://github.com/Satantago |
+| Zuhair Hossain | https://github.com/ZuhairHossain |
 | Satantago | https://github.com/Satantago  |
 | mind8hunter | https://github.com/mind8hunter |
