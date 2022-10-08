@@ -26,3 +26,6 @@
 | Oluwasola A | https://github.com/LUFA199x |
 | Satantago | https://github.com/Satantago |
 | Kuldeepsinh Jadeja | https://github.com/ksjadeja |
+| Zuhair Hossain | https://github.com/ZuhairHossain |
+| Satantago | https://github.com/Satantago  |
+| mind8hunter | https://github.com/mind8hunter |
