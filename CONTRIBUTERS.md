@@ -24,4 +24,5 @@
 | Patil Sagar | https://github.com/SagarPatil007 |
 | Atul Narayan | https://github.com/atulnarayan16|
 | Oluwasola A | https://github.com/LUFA199x |
-| Satantago | https://github.com/Satantago
+| Satantago | https://github.com/Satantago |
+| Kuldeepsinh Jadeja | https://github.com/ksjadeja |
