@@ -19,8 +19,9 @@
 | PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/
 
 
-
-
+## Videos/Lectures
+| MIT Lectures | Videos | Beginner-Intermediate | https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh |
+| Ethical Hacking | Videos | Intermediate-Expert | https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
 
 
