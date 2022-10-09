@@ -23,6 +23,10 @@
 
 
 ---
+## Description of the Repository
+This repository aims to provide content and information regarding CTF and Cybersecurity for free. As the world is progressing to a more digital environment, it is essential to have some knowledge regarding these topics. Enclosed with the markdown files are lectures, websites, labs, videos, courses and much more to gear you up for your journey in this domain.
+
+---
 
 ## Code of Conduct
 
