@@ -51,7 +51,7 @@
 | Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b |
 | Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
 | EC-Council | The Fundamentals Skills You Need to Get Into Cybersecurity | https://codered.eccouncil.org/essentials-series-bundle/ |
-| TMC Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
+| TCM Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
 
 
 <br>
