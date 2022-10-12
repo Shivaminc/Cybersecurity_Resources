@@ -75,11 +75,11 @@
 <br>
 
 
-| TryHackMe | CyberSec Learning | Medium | https://tryhackme.com/ |
-| HackTheBox | CyberSec Training  | Medium  | https://www.hackthebox.com/ |
-| PicoCTF | CTF Pratice | Medium | https://play.picoctf.org/practice |
-| CSAW CTF | CTF Competition | Medium | https://ctf.csaw.io/ |
-| CTFTime | Information Security Competitions | All | https://ctftime.org/ |
-| OverTheWire  | Web | Easy | https://overthewire.org/wargames/bandit/ |
-| Portswigger Labs  | Web | Medium | https://portswigger.net/web-security/all-labs |
+| TryHackMe    | CyberSec Learning                 | Medium  | https://tryhackme.com/ |
+| HackTheBox   | CyberSec Training                 | Medium  | https://www.hackthebox.com/ |
+| PicoCTF      | CTF Pratice                       | Medium  | https://play.picoctf.org/practice |
+| CSAW CTF     | CTF Competition                   | Medium  | https://ctf.csaw.io/ |
+| CTFTime      | Information Security Competitions | All     | https://ctftime.org/ |
+| OverTheWire  | Web                               | Easy    | https://overthewire.org/wargames/bandit/ |
+| Portswigger Labs  | Web                          | Medium  | https://portswigger.net/web-security/all-labs |
 
