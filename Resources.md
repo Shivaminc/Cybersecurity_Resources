@@ -57,15 +57,18 @@
 |----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
 | John the Jumbo | Bruteforcer   | https://github.com/openwall/john                        | Community advance version of John the Ripper                 |
 | DLL Injector   | Exploits      | https://github.com/OpenSecurityResearch/dllinjector     | Injects dlls in processes                                    |
+| RsaCtfTool | Cryptography | https://github.com/RsaCtfTool/RsaCtfTool | RSA tool for ctf - retreive private key from weak public key and/or uncipher data. |
 | Creddump       | Forensics     | https://github.com/moyix/creddump                       | Dump Windows credentials                                     |
 | Exif Tool      | Forensics     | https://exiftool.org/                                   | Read, write and edit file metadata                           |
 | IDA pro        | Reversing     | https://www.hex-rays.com/ida-pro/                       | Most used Reversing software                                 |
+| Ghidra | Reversing | https://github.com/NationalSecurityAgency/ghidra/releases | Analysis tool helps infosec beginners learn reverse-engineering quickly. |
 | Hopper         | Reversing     | https://www.hopperapp.com/                              | Reverse engineering tool (disassembler) for OSX and Linux    |
 | Steganabara    | Steganography | https://www.openhub.net/p/steganabara                   | Tool for stegano analysis written in Java                    |
 | Stegbreak      | Steganography | https://linux.die.net/man/1/stegbreak                   | Launches brute-force dictionary attacks on JPG image         |
 | Steghide       | Steganography | https://steghide.sourceforge.net/                       | Hide data in various kind of images                          |
 | Hackbar        | Web           | https://addons.mozilla.org/en-US/firefox/addon/hackbar/ | Firefox addon for easy web exploitation                      |
 | Sublist3r      | OSINT         | https://github.com/aboul3la/Sublist3r                   | Tool designed to enumerate subdomains of websites using OSINT|
+| OSINT Framework | OSINT | https://osintframework.com/ | OSINT framework focused on gathering information from free tools or resources. |
 | decode.fr      | Cryptography  | https://www.dcode.fr/                                   | convert the cipher text to plain text                        |
 | DaveGrohl       | Bruteforcer   |https://github.com/octomagon/davegrohl                    | Brute-forcing tool for Mac OS X|
 | Rainbow Crack   | Bruteforcer   | http://project-rainbowcrack.com/                         | Generates rainbow tables to be used in recovering passwords |
