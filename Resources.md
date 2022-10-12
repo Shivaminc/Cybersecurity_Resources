@@ -47,7 +47,9 @@
 | Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
 | Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b |
-| Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
+| Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege |
+| CSAW CTF | CTF Competition | Medium | https://ctf.csaw.io/ |
+| CTFTime | Information Security Competitions | All | https://ctftime.org/ |
 
 <br>
 
@@ -71,15 +73,3 @@
 | Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
 | Wireshark       | Packet Tracing | https://www.wireshark.org/                             | Lets you trace and analyze network packets at a very minute and detailed level |
 | Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |  
-
-<br>
-
-
-| TryHackMe    | CyberSec Learning                 | Medium  | https://tryhackme.com/ |
-| HackTheBox   | CyberSec Training                 | Medium  | https://www.hackthebox.com/ |
-| PicoCTF      | CTF Pratice                       | Medium  | https://play.picoctf.org/practice |
-| CSAW CTF     | CTF Competition                   | Medium  | https://ctf.csaw.io/ |
-| CTFTime      | Information Security Competitions | All     | https://ctftime.org/ |
-| OverTheWire  | Web                               | Easy    | https://overthewire.org/wargames/bandit/ |
-| Portswigger Labs  | Web                          | Medium  | https://portswigger.net/web-security/all-labs |
-
