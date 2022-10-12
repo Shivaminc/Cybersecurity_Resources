@@ -16,8 +16,8 @@
 | Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
 | VulnHub | All | Experts | https://www.vulnhub.com/ |
-| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/
-
+| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/ |
+| CTFchallenge | Web | Easy-Intermediate | https://ctfchallenge.com/ |
 
 
 
@@ -42,12 +42,13 @@
 | 247CTF  | Training  | https://247ctf.com/ |
 | FreeCodeCamp | Information Security | https://www.freecodecamp.org/learn/information-security/
 | Cyber Security Essentials | Infosec | https://books.google.com.ng/books?id=hu4bJo5v3dsC&printsec=frontcover&dq=cybersecurity+cisco+free&hl=en&sa=X&ved=2ahUKEwjoz_76y8v6AhWKO-wKHbTWCoUQuwV6BAgDEAY#v=onepage&q&f=false 
-|hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
+| hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
 | Try Hack Me | Blog on Guide to Free rooms on THM | https://tryhackme.com/resources/blog/free_path |
 | Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
 | Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b |
-| Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
+| Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege |
+| RootMe | Training platform | https://www.root-me.org/?lang=en |
 
 <br>
 
@@ -70,4 +71,4 @@
 | THC Hydra       | Bruteforcer   |https://sectools.org/tool/hydra/                          | Offers a large number of protocols (Telnet, RDP, SSH, FTP, HTTP, HTTPS, SMB) to brute force |
 | Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
 | Wireshark       | Packet Tracing | https://www.wireshark.org/                             | Lets you trace and analyze network packets at a very minute and detailed level |
-| Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |  
+| Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |
