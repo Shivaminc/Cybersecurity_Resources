@@ -16,14 +16,9 @@
 | Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
 | VulnHub | All | Experts | https://www.vulnhub.com/ |
-| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/
-
-
-
-
-
-
-
+| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/ |
+| Hacking Lab | All  | Intermediate  | https://hacking-lab.com/ |
+| W3Challs | All | All  | https://w3challs.com/  |
 
 <h2> Free Learning Resources... </h2>
 
@@ -48,6 +43,10 @@
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
 | Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b |
 | Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
+| What is Cyber Security? Introduction to Cyber Security | Lecture | https://www.youtube.com/watch?v=ooJSgsB5fIE |
+| Professor Messer’s SY0-601 CompTIA Security+ Course  | Cybersecurity Course | https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ |
+| HellBound Hackers | Training | https://hbh.sh/ |
+| Hack This Site | Training | https://hackthissite.org/  |
 
 <br>
 
@@ -71,3 +70,10 @@
 | Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
 | Wireshark       | Packet Tracing | https://www.wireshark.org/                             | Lets you trace and analyze network packets at a very minute and detailed level |
 | Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |  
+| Crackstation  | Web   | https://crackstation.net/  | CrackStation is a massive pre-computed lookup tables to crack password hashes.|
+| DNSDumpster  | Web   | https://dnsdumpster.com/   | DNSdumpster is a FREE domain research tool that can discover hosts related to 
+| Webgrep | Web | https://github.com/dhondta/webgrep | grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
+| Ghidra   | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA  |
+| DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
+| Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
+
