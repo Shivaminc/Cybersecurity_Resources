@@ -60,6 +60,7 @@
 | Hack This Site | Training | https://hackthissite.org/  |
 | EC-Council | The Fundamentals Skills You Need to Get Into Cybersecurity | https://codered.eccouncil.org/essentials-series-bundle/ |
 | TCM Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
+| Locally hosted classes | Training | https://opensecuritytraining.info/Training.html |
 
 <br>
 
