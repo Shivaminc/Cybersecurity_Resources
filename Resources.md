@@ -16,7 +16,8 @@
 | Rangeforce Labs | All | Beginners | https://go.rangeforce.com/community-edition-registration |
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
 | VulnHub | All | Experts | https://www.vulnhub.com/ |
-| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/
+| PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/ |
+| Pico CTF | All | Beginner-Expert | https://picoctf.org/ |
 
 
 
@@ -24,6 +25,7 @@
 
 
 
+<br>
 
 <h2> Free Learning Resources... </h2>
 
@@ -48,8 +50,13 @@
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
 | Satantago | RSA | https://medium.com/hackernoon/how-does-rsa-work-f44918df914b |
 | Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
+| EC-Council | The Fundamentals Skills You Need to Get Into Cybersecurity | https://codered.eccouncil.org/essentials-series-bundle/ |
+| TCM Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
+
 
 <br>
+
+<h2> Tools and Frameworks... </h2>
 
 | Name of Tool   | Category      | Link to the tool                                        | Short Description                                            |
 |----------------|---------------|---------------------------------------------------------|--------------------------------------------------------------|
@@ -71,3 +78,5 @@
 | Ncrack          | Bruteforcer   | https://nmap.org/ncrack/                                 | Proactively tests all hosts and networking devices for poor passwords |
 | Wireshark       | Packet Tracing | https://www.wireshark.org/                             | Lets you trace and analyze network packets at a very minute and detailed level |
 | Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |  
+| OWASP ZAP | Web Security | https://www.zaproxy.org/ | World's most widely used web app scanner. Free and open source. |
+| FFuF | Discovery | https://github.com/ffuf/ffuf | Fast web fuzzer written in Go that allows typical directory discovery, virtual host discovery (without DNS records), GET and POST parameter fuzzing
