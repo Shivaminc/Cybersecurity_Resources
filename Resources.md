@@ -17,6 +17,8 @@
 | Pentesters Labs | All | Intermediate | https://pentesterlab.com/exercises |
 | VulnHub | All | Experts | https://www.vulnhub.com/ |
 | PWN Dojo | All | Intermediate-Expert | https://dojo.pwn.college/ |
+| Hacking Lab | All  | Intermediate  | https://hacking-lab.com/ |
+| W3Challs | All | All  | https://w3challs.com/  |
 | CTFchallenge | Web | Easy-Intermediate | https://ctfchallenge.com/ |
 | Pico CTF | All | Beginner-Expert | https://picoctf.org/ |
 
@@ -52,9 +54,12 @@
 | Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege |
 | RootMe | Training platform | https://www.root-me.org/?lang=en |
 | Pwn.college | Cybersecurity Lectures | https://www.youtube.com/c/pwncollege | 
+| What is Cyber Security? Introduction to Cyber Security | Lecture | https://www.youtube.com/watch?v=ooJSgsB5fIE |
+| Professor Messer’s SY0-601 CompTIA Security+ Course  | Cybersecurity Course | https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ |
+| HellBound Hackers | Training | https://hbh.sh/ |
+| Hack This Site | Training | https://hackthissite.org/  |
 | EC-Council | The Fundamentals Skills You Need to Get Into Cybersecurity | https://codered.eccouncil.org/essentials-series-bundle/ |
 | TCM Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
-
 
 <br>
 
@@ -81,5 +86,11 @@
 | Wireshark       | Packet Tracing | https://www.wireshark.org/                             | Lets you trace and analyze network packets at a very minute and detailed level |
 | Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |
 | Metasploit      | Penetration Testing | https://www.metasploit.com/                       | Tool for penetration testing and checking your system for known and open vulnerabilities |  
+| Crackstation  | Web   | https://crackstation.net/  | CrackStation is a massive pre-computed lookup tables to crack password hashes.|
+| DNSDumpster  | Web   | https://dnsdumpster.com/   | DNSdumpster is a FREE domain research tool that can discover hosts related to 
+| Webgrep | Web | https://github.com/dhondta/webgrep | grep for Web pages, with JS deobfuscation, CSS unminifying and OCR on images. |
+| Ghidra   | Reverse Engineering | https://github.com/NationalSecurityAgency/ghidra | It is a reverse engineering framework made by the NSA  |
+| DTMF decoder | Forensics | https://unframework.github.io/dtmf-detect/ | Tool to solve DTMF audio based forensics |
+| Dislocker |  Forensics | http://www.hsc.fr/ressources/outils/dislocker/ | Tool for reading Bitlocker encrypted partitions. |
 | OWASP ZAP | Web Security | https://www.zaproxy.org/ | World's most widely used web app scanner. Free and open source. |
 | FFuF | Discovery | https://github.com/ffuf/ffuf | Fast web fuzzer written in Go that allows typical directory discovery, virtual host discovery (without DNS records), GET and POST parameter fuzzing
