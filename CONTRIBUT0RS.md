@@ -29,3 +29,4 @@
 | Zuhair Hossain | https://github.com/ZuhairHossain |
 | Satantago | https://github.com/Satantago  |
 | mind8hunter | https://github.com/mind8hunter |
+| Shubham Jagtap | https://github.com/ShubhamJagtap2000 |

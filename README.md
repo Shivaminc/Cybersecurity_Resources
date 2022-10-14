@@ -54,7 +54,7 @@ Steps for adding your name in the CONTRIBUTERS.md File
     1. Fork this repo
     2. Edit `Resources.md` file.
     3. Fill any of the categories you feel like contributing to.
-    4. Edit `CONTRIBUTERS.md` file
+    4. Edit `CONTRIBUTORS.md` file
     5. Add your Name also link your github profile seprated by a | (pipe).
         eg. | Shivam | https://github.com/Shivaminc | 
     6. Make your pull request 🙌🏽.
