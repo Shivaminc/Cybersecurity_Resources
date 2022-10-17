@@ -47,6 +47,7 @@
 | FreeCodeCamp | Information Security | https://www.freecodecamp.org/learn/information-security/
 | Cyber Security Essentials | Infosec | https://books.google.com.ng/books?id=hu4bJo5v3dsC&printsec=frontcover&dq=cybersecurity+cisco+free&hl=en&sa=X&ved=2ahUKEwjoz_76y8v6AhWKO-wKHbTWCoUQuwV6BAgDEAY#v=onepage&q&f=false 
 | hack-x-crypt | guide towards cyber security |  https://www.pdfdrive.com/hack-x-crypt-a-straight-forward-guide-towards-ethical-hacking-and-cyber-security-e30450425.html |
+| Cyber security Remote Jobs | Remote jobs | https://www.indeed.com/jobs?q=cyber+security+remote&mna=5&msclkid=b63468d366e8113c1cb70b9a8a84a19d&utm_source=bing&utm_medium=cpc&utm_campaign=job_campaign_20171029_0_%28exact%29_%28en%29&utm_term=cyber+security+remote+jobs&utm_content=cyber+security+remote&gclid=b63468d366e8113c1cb70b9a8a84a19d&gclsrc=3p.ds&vjk=109dcc4ffecbdcb1 |
 | Try Hack Me | Blog on Guide to Free rooms on THM | https://tryhackme.com/resources/blog/free_path |
 | Kontra | Web App Security Training | https://application.security/free/owasp-top-10 |
 | Cisco  | Best Training | https://skillsforall.com/career-path/cybersecurity |
