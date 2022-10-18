@@ -62,6 +62,8 @@
 | EC-Council | The Fundamentals Skills You Need to Get Into Cybersecurity | https://codered.eccouncil.org/essentials-series-bundle/ |
 | TCM Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
 | Locally hosted classes | Training | https://opensecuritytraining.info/Training.html |
+| Cybersecurity-Bookmarks | Cyber-Bookmarks: a list of bookmarks that contains lists of resources/articles that will help bug bounty hunters with resources that are useful during their bug bounty journey | https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
+
 
 <br>
 
