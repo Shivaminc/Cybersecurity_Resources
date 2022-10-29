@@ -22,11 +22,6 @@
 | CTFchallenge | Web | Easy-Intermediate | https://ctfchallenge.com/ |
 | Pico CTF | All | Beginner-Expert | https://picoctf.org/ |
 
-
-
-
-
-
 <br>
 
 <h2> Free Learning Resources... </h2>
@@ -62,8 +57,8 @@
 | EC-Council | The Fundamentals Skills You Need to Get Into Cybersecurity | https://codered.eccouncil.org/essentials-series-bundle/ |
 | TCM Security | Penetration Testing, Security Training Services | https://academy.tcm-sec.com/ | 
 | Locally hosted classes | Training | https://opensecuritytraining.info/Training.html |
+| Medium | Pentesting Learning | https://medium.com/@stackzero/the-ultimate-guide-to-free-pentesting-learning-resources-ca64ff4328d2 |
 | Cybersecurity-Bookmarks | Cyber-Bookmarks: a list of bookmarks that contains lists of resources/articles that will help bug bounty hunters with resources that are useful during their bug bounty journey | https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
-
 
 <br>
 
